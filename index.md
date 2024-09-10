@@ -1,6 +1,6 @@
 ---
 layout: base
-title: Student Home 
+title: Gaheera Babbar CSP
 description: Home Page
 hide: true
 ---

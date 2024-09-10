@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
+title: About Gaheera
 permalink: /about/
 ---
 
-Creator of Student 2025
+Senior at Del Norte High School

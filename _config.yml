@@ -1,9 +1,9 @@
 title: Nighthawk Pages 
-description: "Class of 2025"
-owner_name: John Mortensen
-github_username: nighthawkcoders
-github_repo: "student_2025" 
-baseurl: "/student_2025"
+description: "Gaheera CSP 2025"
+owner_name: Gaheera Babbar
+github_username: gaheerab
+github_repo: "gaheera_2025" 
+baseurl: "/gaheera_2025"
 future: true
 remote_theme: jekyll/minima
 minima:
