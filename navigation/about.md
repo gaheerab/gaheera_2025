@@ -15,7 +15,7 @@ permalink: /about/
 
 <div style="display: flex; justify-content: space-around;">
         <img src="" alt="prom" style="width:400px;height:300px;">
-        <img src="c:\Users\gahee\Downloads\game.jpg" alt="game" style="width:400px;height:300px;">
+        <img src="/home/gaheerab/nighthawk/gaheera_2025/images/game.jpg" alt="game" style="width:400px;height:300px;">
         <img src="" alt="mom" style="width:200px;height:300px;">
     </div>
 
