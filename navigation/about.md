@@ -1,11 +1,19 @@
 ---
 layout: page
-title: About Gaheera
+title: About Gaheera 
 permalink: /about/
 ---
 <html>
 <body>
-<p style="font-family: Abril Fatface; color:black; font-size:15px;">Hi! My name is Gaheera and I am a Senior at Del Norte High School. In my free time I like to bake, go on walks, and play tennis.</p>
+<link href='https://fonts.googleapis.com/css?family=Fredericka the Great' rel='stylesheet'>
+
+<h1><b style="font-family: 'Fredericka the Great'; color: #9e2a2b; font-size:25px;">About Gaheera</b></h1>
+
+<link href='https://fonts.googleapis.com/css?family=Sunflower' rel='stylesheet'>
+
+<p style="text-align: left; font-family: 'Sunflower'; color: #432534; font-size:18px;">Hi! My name is Gaheera and I am a Senior at Del Norte High School. In my free time I like to bake, go on walks, and play tennis.</p>
+
+
 
 <div style="display: flex; justify-content: space-around;">
         <img src="" alt="pizza" style="width:200px;height:300px;">
