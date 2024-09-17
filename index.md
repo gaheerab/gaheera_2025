@@ -41,6 +41,12 @@ hide: true
 
 
 <body style="background-color:floral white;">
+.page-header {
+    color: #fff;
+    text-align: center;
+    background-color: #159957;
+    background-image: linear-gradient(120deg, #155799, #159957);
+}
 
 </body>
 
