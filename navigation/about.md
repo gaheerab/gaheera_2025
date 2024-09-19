@@ -2,6 +2,7 @@
 layout: page
 title: About Gaheera 
 permalink: /about/
+comments: true
 ---
 <html>
 <body>
@@ -26,10 +27,3 @@ permalink: /about/
 
 <div>
 
-<script src="https://utteranc.es/client.js"
-        repo="gaheera_2025"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
