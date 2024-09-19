@@ -23,3 +23,13 @@ permalink: /about/
 
 
 <img src="https://i0.wp.com/www.ourpassionfortravel.com/wp-content/uploads/2018/11/Venice-Edits-138.jpg" alt="Venice" style="width:200px;height:300px;">
+
+<div>
+
+<script src="https://utteranc.es/client.js"
+        repo="gaheera_2025"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
