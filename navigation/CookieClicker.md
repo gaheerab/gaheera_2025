@@ -139,6 +139,7 @@ permalink: /cookieclicker/
    <div id="gameContainer">
        <!-- Add your cookie image URL here in the 'src' attribute -->
        <img id="cookie" src="https://prettysimplesweet.com/wp-content/uploads/2020/07/Big-Chocolate-Chip-Cookies-150x150.jpg" alt="Cookie">
+       <audio id="clickSound" src="{{ site.baseurl}}/assets/sounds/click-151673.mp3"></audio>
        <div id="score">Cookies: 0</div>
 
 
