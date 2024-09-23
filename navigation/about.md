@@ -35,3 +35,5 @@ comments: true
         crossorigin="anonymous"
         async>
 </script>
+
+<body style="background-color: #fffaf0;">

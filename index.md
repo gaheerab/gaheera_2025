@@ -42,12 +42,13 @@ hide: true
 </div>
 <link href='https://fonts.googleapis.com/css?family=Sunflower' rel='stylesheet'>
 
-<p style="text-align: left; font-family: 'Sunflower'; color: #432534; font-size:20px;">My Journey: I struggled to find the html commands that would allow me to design my website in the way I wanted. I also struggled to change the theme and style of my website as there were errors in my config.yml file. However, once I deleted the file and remade my site, I was able to modify the themes to my own liking.</p>
+<p style="text-align: left; font-family: 'Sunflower'; color: #432534; font-size:20px;">My Journey: I struggled to find the html commands that would allow me to design my website in the way I wanted. I also struggled to change the theme and style of my website as there were errors in my config.yml file. However, once I deleted the file and remade my site, I was able to modify the themes to my own liking. After that, I could used what I learned about CSS styling to change the colors of my entire website. I decided to make it fall themed, and used my leanring to customize all of my pages and elemnets, including the colors and fonts of the calculator. 
+Something else I struggled with was adding sound effects to my cookie clicker. I was unfamilair with an audio command, but I got help from my peers to important a clicking sound effect and incoporating it into my cookie clicker code. After fixing my own cookie clicker, I was able to help the people in my own group to add a sound effect to theirs. </p>
     </div>
 
 
 
-<body style="background-color:floral white;">
+<body style="background-color: #fffaf0;">
 
 
 </body>

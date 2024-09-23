@@ -55,3 +55,4 @@ permalink: /cookieclicker/
     </script>
 </body>
 
+<body style="background-color:floral white;">

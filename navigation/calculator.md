@@ -292,3 +292,5 @@ vantaInstance({
   gyroControls: false
 });
 </script>
+
+<body style="background-color: #fffaf0;">
