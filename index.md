@@ -21,7 +21,7 @@ hide: true
 
 <div>
 
-<p style="text-align: center; font-family: 'Fredericka the Great'; color: #9e2a2b; font-size:20px;">My Favorite Restaurants: Please Choose a Meal</p>
+<p style="text-align: center; font-family: 'Fredericka the Great'; color: #9e2a2b; font-size:20px;">My Favorite Restaurants: Please Choose a Meal 😊</p>
 <div>
 <button style="border-radius: 12px; text-align: center; border: 2px  #432534;">Breakfast</button>
 <div>
