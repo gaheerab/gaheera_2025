@@ -1,13 +1,105 @@
 ---
-layout: page
 title: Calculator
+comments: true
+layout: page
+type: hacks
+description: Calculator
 permalink: /calculator/
 ---
 
 {% include nav/home.html %}
+<!-- 
+Hack 0: Right justify the result
+Hack 1: Test conditions on small, big, and decimal numbers, and report on findings. Fix issues.
+Hack 2: Add the common math operation that is missing from the calculator
+Hack 3: Implement 1 number operation (ie SQRT) 
+-->
 
-Calculator
+<!-- 
+HTML implementation of the calculator. 
+-->
+
+<!-- 
+    Style and Action are aligned with HRML class definitions
+    style.css contains the majority of style definitions (number, operation, clear, and equals)
+    - The div calculator container sets 4 elements to a row
+    The background is credited to Vanta JS and is implemented at the bottom of this page
+-->
 <style>
+.calc-button,.calculator-number,.calculator-operation {
+    width: auto;
+    height: auto;
+    border-radius: 10px;
+    background-color: #BF9774;
+    border: 3px solid #000;
+    font-size: 1.5em; color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    grid-column: span 1;
+    grid-row: span 1;
+    transition: all 0.5s
+}
+
+.calc-button:hover,.calculator-number:hover,.calculator-operation:hover {
+    background-color: #BF9774
+}
+
+.calculator-container {
+    width: 90vw;
+    height: 80vh;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: 0.5fr repeat(4, 1fr);
+    gap: 10px 10px
+}
+
+@media (min-width: 600px) {
+    .calculator-container {
+        width:40vw;
+        height: 80vh
+    }
+}
+
+.calculator-clear {
+    width: auto;
+    height: auto;
+    border-radius: 10px;
+    background-color: #A6432C;
+    border: 3px solid #000;
+    font-size: 1.5em; color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    grid-column: span 1;
+    grid-row: span 1;
+    transition: all 0.5s
+}
+
+.calculator-clear:hover {
+    background-color: #A6432C
+}
+
+.calculator-equals {
+    width: auto;
+    height: auto;
+    border-radius: 10px;
+    background-color: #3F2E24;
+    border: 3px solid #000;
+    font-size: 1.5em; color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    grid-column: span 1;
+    grid-row: span 1;
+    transition: all 0.5s
+}
+
+.calculator-equals:hover {
+    background-color: #3F2E24
+}
+
   .calculator-output {
     /*
       calculator output
@@ -200,5 +292,3 @@ vantaInstance({
   gyroControls: false
 });
 </script>
-
-
