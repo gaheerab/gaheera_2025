@@ -8,7 +8,7 @@ comments: true
 <body>
 <link href='https://fonts.googleapis.com/css?family=Fredericka the Great' rel='stylesheet'>
 
-<h1><b style="font-family: 'Fredericka the Great'; color: #9e2a2b; font-size:25px;">About Gaheera</b></h1>
+<h1><b style="font-family: 'Fredericka the Great'; color: #9e2a2b; font-size:25px;">🍁About Gaheera🍁</b></h1>
 
 <link href='https://fonts.googleapis.com/css?family=Sunflower' rel='stylesheet'>
 

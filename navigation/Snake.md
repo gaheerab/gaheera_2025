@@ -372,3 +372,4 @@ Future Home of Snake Game
         }
     })();
 </script>
+<body style="background-color: #fffaf0;">

@@ -11,7 +11,7 @@ hide: true
 <link href='https://fonts.googleapis.com/css?family=Fredericka the Great' rel='stylesheet'>
 
 
-<h1><b style="font-family: 'Fredericka the Great'; color: #9e2a2b; font-size:25px;">Gaheera Babbar: CSP 2025</b></h1>
+<h1><b style="font-family: 'Fredericka the Great'; color: #9e2a2b; font-size:25px;"> 🍁Gaheera Babbar: CSP 2025 🍁</b></h1>
 
 
 
@@ -21,17 +21,17 @@ hide: true
 
 <div>
 
-<p style="text-align: center; font-family: 'Fredericka the Great'; color: #9e2a2b; font-size:20px;">My Favorite Restaurants: Please Choose a Meal 😊</p>
+<p style="text-align: center; font-family: 'Fredericka the Great'; color: #9e2a2b; font-size:20px;">My Favorite Restaurants: Please Choose a Meal </p>
 <div>
-<button style="border-radius: 12px; text-align: center; border: 2px  #432534;">Breakfast</button>
+<button style="border-radius: 12px; text-align: center; border: 2px  #432534;">☕Breakfast☕</button>
 <div>
  
-<button style="border-radius: 12px; text-align: center; border: 2px  #432534;" onclick="window.open('https://cava.com/', '_blank'); ">Lunch</button>  
+<button style="border-radius: 12px; text-align: center; border: 2px  #432534;" onclick="window.open('https://cava.com/', '_blank'); ">🥙Lunch🥙</button>  
 
 
 <div>
 
-<button style="border-radius: 12px; text-align: center; border: 2px pink;" onclick="window.open('https://www.herbandwood.com/', '_blank');">Dinner</button>  
+<button style="border-radius: 12px; text-align: center; border: 2px pink;" onclick="window.open('https://www.herbandwood.com/', '_blank');">🫕Dinner🫕</button>  
 </div>
 <p style="text-align: center; font-family: 'Fredericka the Great'; color: #9e2a2b; font-size:20px;">My Favorite Foods</p>
 
